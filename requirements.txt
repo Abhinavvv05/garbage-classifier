@@ -1,4 +1,4 @@
-gradio
-tensorflow
+streamlit
+tflite-runtime
 pillow
 numpy
